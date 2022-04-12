@@ -1,2 +1,2 @@
 # PicGO_image
-repository for my images
+repository for photos about CC
